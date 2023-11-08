@@ -81,3 +81,40 @@ border: none;
 .banner-img img{
     width: 100%;
 }
+#features{
+    margin-top: 85px;
+}
+.main-features{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+
+}
+.main-features-right{
+    width: 400px;
+}
+.main-features-img-one img{
+    width: 270px;
+}
+.main-features-img-two{
+    margin-top: 20px;
+}
+.main-features-img-two img{
+    width: 270px;
+}
+.pl{
+    margin-left: 24px;
+}
+
+.main-features-right-head h2{
+  font-size: 46px;
+  font-family: sans-serif;
+}
+.features-sp{
+   font-size: 45px;
+   color: orange;
+   font-family: sans-serif;
+}
+.new{
+    text-align: left;
+}
